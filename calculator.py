@@ -9,6 +9,6 @@ def mul(a, b):
 
 def div(a, b):
     if b == 0:
-        return error
+        return "error"
     else:
-        return a / bcalculator.py
+        return a / b
